@@ -4,5 +4,4 @@ public class SchoolFriend extends Friend{
 	public void schoolFriend() {
 		System.out.println("School Friend!");
 	}
-
 }
